@@ -6,11 +6,11 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/VenenoSix24)
-![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fs1xig)
-![X](https://img.shields.io/badge/X-000?style=flat&logo=x&link=https%3A%2F%2Fx.com%2FS1xlg)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fs1xig)](https://t.me/s1xig)
+[![X](https://img.shields.io/badge/X-000?style=flat&logo=x&link=https%3A%2F%2Fx.com%2FS1xlg)](https://x.com/S1xlg)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lagbqy@gmail.com)
-![Static Badge](https://img.shields.io/badge/Home-0078D4?style=flat&logo=sololearn&logoColor=white&link=https%3A%2F%2Fivyris.top)
-![View](https://views.whatilearened.today/views/github/VenenoSix24/VenenoSix24.svg)
+[![Home](https://img.shields.io/badge/Home-0078D4?style=flat&logo=sololearn&logoColor=white&link=https%3A%2F%2Fivyris.top)](https://ivyris.top/)
+[![View](https://views.whatilearened.today/views/github/VenenoSix24/VenenoSix24.svg)](https://github.com/VenenoSix24/VenenoSix24)
 
 &nbsp;
 
